@@ -12,3 +12,5 @@ This Project uses TensorFlow, Keras and Adveserial-Robust-Toolbox as well as sta
 </ $ pip install tensorflow />
 
 </ $ pip install adveserial-robust-toolbox />
+
+The result where varying but we believe that better results can be achieved with more complex models, longer training time, optimization of hyper-parameters and better hardware to handle this faster and in greater quantities.
